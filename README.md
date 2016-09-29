@@ -39,4 +39,25 @@ db.collection.remove(
      writeConcern: <document>_//（可选）抛出异常的级别。_<br/>
    }
 )
+**8 查询文档**
+db.COLLECTION_NAME.find()<br/>
+未完.....
+# mongodb vs spring
+**1 mvn deploy**
+    \<dependency>
+        \<groupId>org.mongodb\</groupId>
+        \<artifactId>mongo-java-driver\</artifactId>
+        \<version>2.9.3\</version>
+    \</dependency>
+    \<dependency>
+        \<groupId>org.springframework.data\</groupId>
+        \<artifactId>spring-data-commons\</artifactId>
+        \<version>1.7.2.RELEASE\</version>
+    \</dependency>
+    \<dependency>
+        \<groupId>org.springframework.data\</groupId>
+        \<artifactId>spring-data-mongodb\</artifactId>
+        \<version>1.4.2.RELEASE\</version>
+    \</dependency>
+
 `

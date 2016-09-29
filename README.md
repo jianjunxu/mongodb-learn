@@ -44,20 +44,20 @@ db.COLLECTION_NAME.find()<br/>
 未完.....
 # mongodb vs spring
 **1 mvn deploy**
-    \<dependency>
-        \<groupId>org.mongodb\</groupId>
-        \<artifactId>mongo-java-driver\</artifactId>
-        \<version>2.9.3\</version>
-    \</dependency>
-    \<dependency>
-        \<groupId>org.springframework.data\</groupId>
-        \<artifactId>spring-data-commons\</artifactId>
-        \<version>1.7.2.RELEASE\</version>
-    \</dependency>
-    \<dependency>
-        \<groupId>org.springframework.data\</groupId>
-        \<artifactId>spring-data-mongodb\</artifactId>
-        \<version>1.4.2.RELEASE\</version>
-    \</dependency>
+    \<dependency>_<br/>
+        \<groupId>org.mongodb\</groupId>_<br/>
+        \<artifactId>mongo-java-driver\</artifactId>_<br/>
+        \<version>2.9.3\</version>_<br/>
+    \</dependency>_<br/>
+    \<dependency>_<br/>
+        \<groupId>org.springframework.data\</groupId>_<br/>
+        \<artifactId>spring-data-commons\</artifactId>_<br/>
+        \<version>1.7.2.RELEASE\</version>_<br/>
+    \</dependency>_<br/>
+    \<dependency>_<br/>
+        \<groupId>org.springframework.data\</groupId>_<br/>
+        \<artifactId>spring-data-mongodb\</artifactId>_<br/>
+        \<version>1.4.2.RELEASE\</version>_<br/>
+    \</dependency>_<br/>
 
 `
